@@ -5,5 +5,3 @@
 Низкая цена
 
 ![Логотип](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
-
-12.02.2026
